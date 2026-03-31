@@ -1,3 +1,12 @@
+KARMA DEVELOPMENTS - INTERACT - This system is used in some of our Systems  ( This is a new version, All reworked to be more inspired on the biggest RP Project )
+If you received it on keymaster and you got a error, use this version 
+
+( make sure to have ox_lib started before )
+
+
+
+
+
 # World Interactions
 Create interaction points in the world with selectable options.
 
